@@ -1,0 +1,8 @@
+pyinstaller~=5.1
+future~=0.18.2
+Pillow~=9.2.0
+pip~=21.2.3
+altgraph~=0.17.2
+pefile~=2022.5.30
+setuptools~=57.4.0
+ttkwidgets~=0.12.1
